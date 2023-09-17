@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**StijnScheltinga/StijnScheltinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Stijn, a Codam student!  
+Below you will find a list of the projects i have completed and the projects i am still currently working on.
 
-Here are some ideas to get you started:
+## in progess 🔁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Minishell](https://github.com/StijnScheltinga/minishell)
+
+## completed: ✔
+
+[philosophers](https://github.com/StijnScheltinga/philosophers)
+
+[pipex](https://github.com/StijnScheltinga/pipex)
+
+[push_swap](https://github.com/StijnScheltinga/push_swap)
+
+[fract-ol](https://github.com/StijnScheltinga/fract-ol)  
+
+[get_next_line](https://github.com/StijnScheltinga/get_next_line)
+
+[ft_printf](https://github.com/StijnScheltinga/ft_printf)
+
+[libft](https://github.com/StijnScheltinga/libft)
+
