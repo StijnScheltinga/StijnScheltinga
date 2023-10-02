@@ -5,9 +5,11 @@ Below you will find a list of the projects i have completed and the projects i a
 
 ## in progess 🔁
 
-[Minishell](https://github.com/StijnScheltinga/minishell)
+[cpp_module_00](https://github.com/StijnScheltinga/cpp_module_00)
 
 ## completed: ✔
+
+[Minishell](https://github.com/StijnScheltinga/minishell)
 
 [philosophers](https://github.com/StijnScheltinga/philosophers)
 
