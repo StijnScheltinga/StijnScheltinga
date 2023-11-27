@@ -5,7 +5,7 @@ Below you will find a list of the projects i have completed and the projects i a
 
 ## in progess 🔁
 
-[cpp_module_00](https://github.com/StijnScheltinga/cpp_module_00)
+[cpp_modules](https://github.com/StijnScheltinga/cpp_modules)
 
 ## completed: ✔
 
