@@ -9,6 +9,8 @@ Below you will find a list of the projects i have completed and the projects i a
 
 ## completed: ✔
 
+[Cub3d](https://github.com/tde-brui/cub3d)
+
 [Minishell](https://github.com/StijnScheltinga/minishell)
 
 [philosophers](https://github.com/StijnScheltinga/philosophers)
