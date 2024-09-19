@@ -1,21 +1,26 @@
 ## Hi there 👋
 
-I am Stijn, a Codam student!  
+I am Stijn, a Codam student!
 Below you will find a list of the projects i have completed and the projects i am still currently working on.
+These projects are part of the 42 curriculum.
 
 ## in progess 🔁
 
-[cpp_modules](https://github.com/StijnScheltinga/cpp_modules)
+[Inception](https://github.com/StijnScheltinga/inception)
 
 ## completed: ✔
+
+[Webserv](https://github.com/StijnScheltinga/webserv)
+
+[cpp_modules](https://github.com/StijnScheltinga/cpp_modules)
 
 [Cub3d](https://github.com/tde-brui/cub3d)
 
 [Minishell](https://github.com/StijnScheltinga/minishell)
 
-[philosophers](https://github.com/StijnScheltinga/philosophers)
+[Philosophers](https://github.com/StijnScheltinga/philosophers)
 
-[pipex](https://github.com/StijnScheltinga/pipex)
+[Pipex](https://github.com/StijnScheltinga/pipex)
 
 [push_swap](https://github.com/StijnScheltinga/push_swap)
 
