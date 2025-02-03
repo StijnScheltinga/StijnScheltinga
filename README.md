@@ -6,9 +6,9 @@ These projects are part of the 42 curriculum.
 
 ## in progess 🔁
 
-[Transcendence](https://github.com/tde-brui/Transcendence)
-
 ## completed: ✔
+
+[Transcendence](https://github.com/tde-brui/Transcendence)
 
 [Inception](https://github.com/StijnScheltinga/inception)
 
