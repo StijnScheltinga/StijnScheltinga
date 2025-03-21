@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-I am Stijn, a Codam student!
-Below you will find a list of the projects i have completed and the projects i am still currently working on.
-These projects are part of the 42 curriculum.
+I am Stijn, a Codam student! Having completed all the projects Codam Core has to offer, I am currently looking for an internship/full-time position.
+Below you will find a list of the projects i have completed.
 
 ## in progess 🔁
 
