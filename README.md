@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-I am Stijn, a Codam student! Having completed all the projects Codam Core has to offer, I am currently looking for an internship/full-time position.
-Below you will find a list of the projects i have completed.
-
-## in progess 🔁
+I am Stijn, a software engineer trainee at D3cisive!
 
 ## completed: ✔
 
